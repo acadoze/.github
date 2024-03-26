@@ -27,6 +27,6 @@ To set up the development environment for this project, follow these steps:
 To run development migrations for your database, follow these steps:
 
 1. Ensure that your database server is running and that your development database is properly configured in `config/config.js`.
-2. Use the following command to run the migrations:
-   npx sequelize-cli db:migrate
+2. Use the following command to run the migrations
+- `npx sequelize-cli db:migrate`
 
